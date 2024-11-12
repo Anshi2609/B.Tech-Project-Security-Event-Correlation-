@@ -64,4 +64,5 @@ jobs:
         with:
           app-name: 'MyApp26'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B808120CD5E4F57A369B2187646AE67 }}
+          publish-profile: ${{ secrets.ANSHI }}
+
